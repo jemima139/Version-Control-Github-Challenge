@@ -1,0 +1,20 @@
+1. Explain what the terminal is in your own words.
+The terminal is an operating system based on Unix, that allows users to interact with the computer using commands. It helps the users navigate the file system, and run programs. It lets the users install software, manage files, configure system settings, and perform a wide range of other operations. 
+	
+
+2. What is the major difference between Git and GitHub?
+Git is a tool that tracks the changes in our code over time. While GitHub is a website where we can host all our Git repositories. It makes it easy to work in groups online and organize our projects in a portfolio. 
+
+The major difference between Git and GitHub is that Git is a version control system and GitHub is an online platform built around Git that helps host, share, and collaborate repositories. 
+git
+
+3. What are the steps to fork a GitHub repository?
+i. On GitHub.com, navigate to the octocat/Spoon-Knife repository. 
+ii. In the top-right corner of the page, click Fork. 
+iii. Under the "Owner', select the dropdown menu and click an owner for the forked repository. 
+iv. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the "Repository name field, type a name.
+v. Optionally, in the "Description" field, type a description of your fork.
+vi. Optionally, select Copy the DEFAULT branch only. 
+vii. Click Create fork.
+
+
